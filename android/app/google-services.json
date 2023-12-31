@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101878213195",
+    "project_id": "second-miig-shop-nqvy5i",
+    "storage_bucket": "second-miig-shop-nqvy5i.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101878213195:android:45ddf46fcff11f2f60bbce",
+        "android_client_info": {
+          "package_name": "com.mycompany.ffenterpriseecomm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbfZG4OJAkI9BRIPeNKEZHzS-EcL0GFtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
